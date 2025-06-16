@@ -21,6 +21,7 @@ This project aims to predict epileptic seizures and detect brain anomalies (like
   * `3`: Healthy brain near tumor
   * `4`: Eyes closed
   * `5`: Eyes open
+  * https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition
 
 ### 🔍 Methodology
 
